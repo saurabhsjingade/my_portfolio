@@ -32,6 +32,7 @@ export function Hero() {
         style={{
           fontSize: 'clamp(46px, 7.2vw, 92px)',
           letterSpacing: '-0.045em',
+          paddingBottom: '0.12em',
         }}
       >
         {site.name}
